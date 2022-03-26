@@ -1,11 +1,7 @@
 # DimensionReduction
 
-This Repository contains dimension reduction algorithm such as:
-
-
--PCA
-
+This Repository contains dimension reduction algorithm such as: <br>
+-PCA <br>
 -LDA
-
 -SVD
 
